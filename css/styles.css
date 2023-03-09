@@ -18,6 +18,7 @@
 	--backdrop: rgba(46, 47, 66, 0.4);
 	--bg-modal: #fcfcfc;
 	--bg-border-close-icon: rgba(0, 0, 0, 0.1);
+	--text-main: #434455;
 }
 h1,
 h2,
@@ -607,6 +608,7 @@ body {
 	margin-bottom: 8px;
 }
 .portfolio-subtitle {
+	color: var(--text-main);
 }
 .container-portfolio-carts {
 	position: relative;
